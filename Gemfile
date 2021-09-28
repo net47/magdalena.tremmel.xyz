@@ -29,6 +29,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "jekyll-google-photos", "~> 1.2"
 
-gem "nokogiri", "~> 1.10"
+gem "nokogiri", "~> 1.12"
 
 gem 'jemoji'
